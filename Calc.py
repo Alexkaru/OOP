@@ -12,7 +12,12 @@ class Calc:
     #funktsioon jagab x- i y-iga
     def divide(x, y):
         return x / y
-
+    def power(x, y):
+        vastus = 0
+        vastus = x
+        for i in range (y):
+            vastus *= x
+            return vastus
 
 
 
