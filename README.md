@@ -1,1 +1,0 @@
-# Pycode.A.Karu
